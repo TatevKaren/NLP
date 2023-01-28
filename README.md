@@ -5,7 +5,7 @@ Read about **BERT** (Bidirectional Transformers for Language Understanding) <a h
 
 Read about **GPT** (Generative Pre-Training) <a href="https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf">here</a>
 
-Read about **ChatGPT** (Bidirectional Transformers for Language Understanding) <a href="">here</a>
+Read about **ChatGPT** <a href="https://chat.openai.com/chat">here</a>
 
 
 
