@@ -7,13 +7,14 @@
 <img width="627" alt="Screenshot 2023-01-27 at 10 38 33 PM" src="https://user-images.githubusercontent.com/76843403/215250996-70342c90-6e6f-4a43-944b-09b941e2f2b0.png">
 
 ## Step 3: Tokenization
-![Uploading Screenshot 2023-01-27 at 10.39.04 PM.png…]()
+<img width="623" alt="Screenshot 2023-01-27 at 10 39 41 PM" src="https://user-images.githubusercontent.com/76843403/215251047-f17ddc2e-c327-4483-906c-ace96915d6a4.png">
+
+## Step 4: Removing punctuation 
+<img width="618" alt="Screenshot 2023-01-27 at 10 40 13 PM" src="https://user-images.githubusercontent.com/76843403/215251076-1c7958d1-9e65-4017-8364-21c79382ff02.png">
 
 
-
-
-
-
+## Step 5: Stopword removal
+<img width="615" alt="Screenshot 2023-01-27 at 10 40 34 PM" src="https://user-images.githubusercontent.com/76843403/215251090-b9829745-a0b7-4350-b1c5-835cc5472c15.png">
 
 
 
