@@ -1,7 +1,7 @@
 
 
 ## Step 1: Transforming to lowercase data
-<img width="623" alt="Screenshot 2023-01-27 at 10 37 52 PM" src="https://user-images.githubusercontent.com/76843403/215250957-71cd6c90-63ab-4e33-abbf-38f58b8e8853.png">
+<img width="624" alt="Screenshot 2023-01-27 at 10 41 16 PM" src="https://user-images.githubusercontent.com/76843403/215251147-3bb8a91e-df7c-4637-86ad-dd2605833934.png">
 
 ## Step 2:  Removing space, digits, non-word, and single word characters
 <img width="627" alt="Screenshot 2023-01-27 at 10 38 33 PM" src="https://user-images.githubusercontent.com/76843403/215250996-70342c90-6e6f-4a43-944b-09b941e2f2b0.png">
