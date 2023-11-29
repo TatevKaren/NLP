@@ -1,6 +1,6 @@
 # N-Gram Language Model Paper 
 Explaining N-Gram with Mathematics and Statistical Details
-<img width="417" alt="Screenshot 2023-11-29 at 12 33 35 PM" src="https://github.com/TatevKaren/NLP/assets/76843403/0f425b0e-8a9c-40ff-8191-c5046560ea62" style="position:center; top:20px; left:-30px;">
+<img width="417" alt="Screenshot 2023-11-29 at 12 33 35 PM" src="https://github.com/TatevKaren/NLP/assets/76843403/0f425b0e-8a9c-40ff-8191-c5046560ea62" style="position:center; top:20px; left:-200px;">
 
 ## Formulas and Document Built using 
 LaTeX Scholar Assistant built by LunarTech
